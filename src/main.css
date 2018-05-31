@@ -1,0 +1,90 @@
+th { background: #71af5a; color: #fff; }
+
+.tt-page-content {
+    margin: 30px;
+}
+
+/* Dynatable */
+#my-final-table {
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 18px;
+}
+.dynatable-demo table {
+    margin-bottom: 0;
+}
+.dynatable-demo ul {
+    margin-top: 18px;
+}
+.dynatable-demo .dynatable-record-count,
+.dynatable-demo .dynatable-pagination-links {
+    margin-top: 9px;
+}
+.dynatable-demo td,
+.dynatable-demo td img {
+    vertical-align: middle;
+}
+
+#dynatable-processing-processing-indicator-nice-example {
+    background: #000;
+    opacity: 0.6;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+#dynatable-processing-processing-indicator-nice-example span {
+    background: #FFF;
+    border: solid 2px #57A957;
+    color: #333;
+    padding: 25px;
+    font-size: 2em;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
+}
+#dynatable-processing-processing-indicator-nice-example span img {
+    vertical-align: middle;
+}
+
+cite {
+    display: block;
+    margin: 10px 0;
+    color: #999;
+    padding-left: 15px;
+}
+
+th a {
+    color: #fff;
+    font-weight: normal;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+.very-green {
+    background-color: darkgreen;
+    color: black;
+}
+
+.green {
+    background-color: green;
+    color: black;
+}
+
+.mild-green {
+    background-color: greenyellow;
+    color: black;
+}
+
+.very-red {
+    background-color: darkred;
+    color: black;
+}
+
+.red {
+    background-color: red;
+    color: black;
+}
+
+.mild-red {
+    background-color: #FFA5A5;
+    color: black;
+}

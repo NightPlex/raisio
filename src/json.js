@@ -387,3 +387,526 @@ RAISIO.data = [
         "performance": ""
     }
 ];
+
+RAISIO.peak = [
+    {
+        "cowName": "Kismet",
+        "calving": 3,
+        "dim": 1,
+        "feedPerMilk": 0.26,
+        "milkProduced": 12.8,
+        "predictedPeak": 54.6
+    },
+    {
+        "cowName": "Leia",
+        "calving": 2,
+        "dim": 7,
+        "feedPerMilk": 0.174,
+        "milkProduced": 33.3,
+        "predictedPeak": 47.6
+    },
+    {
+        "cowName": "Lola",
+        "calving": 2,
+        "dim": 27,
+        "feedPerMilk": 0.15,
+        "milkProduced": 38.6,
+        "predictedPeak": 45
+    },
+    {
+        "cowName": "Melissa",
+        "calving": 1,
+        "dim": 10,
+        "feedPerMilk": 0.193,
+        "milkProduced": 33.3,
+        "predictedPeak": 40.5
+    },
+    {
+        "cowName": "Neiti",
+        "calving": 1,
+        "dim": 19,
+        "feedPerMilk": 0.147,
+        "milkProduced": 34.7,
+        "predictedPeak": 37.1
+    },
+    {
+        "cowName": "Idoli",
+        "calving": 5,
+        "dim": 4,
+        "feedPerMilk": 0.122,
+        "milkProduced": 25.3,
+        "predictedPeak": 48.6
+    },
+    {
+        "cowName": "Lahjakas",
+        "calving": 2,
+        "dim": 24,
+        "feedPerMilk": 0.152,
+        "milkProduced": 41.6,
+        "predictedPeak": 42.5
+    },
+    {
+        "cowName": "Missi",
+        "calving": 2,
+        "dim": 18,
+        "feedPerMilk": 0.115,
+        "milkProduced": 43.1,
+        "predictedPeak": 46.4
+    },
+    {
+        "cowName": "Inkeri",
+        "calving": 5,
+        "dim": 13,
+        "feedPerMilk": 0.115,
+        "milkProduced": 36.4,
+        "predictedPeak": 43.5
+    },
+    {
+        "cowName": "Juulia",
+        "calving": 4,
+        "dim": 8,
+        "feedPerMilk": 0.128,
+        "milkProduced": 36.8,
+        "predictedPeak": 46.3
+    },
+    {
+        "cowName": "Jekku",
+        "calving": 4,
+        "dim": 24,
+        "feedPerMilk": 0.144,
+        "milkProduced": 31.8,
+        "predictedPeak": 38.2
+    },
+    {
+        "cowName": "Jelena",
+        "calving": 3,
+        "dim": 1,
+        "feedPerMilk": 0.06,
+        "milkProduced": 29.2,
+        "predictedPeak": 48.6
+    },
+    {
+        "cowName": "Jatsi",
+        "calving": 4,
+        "dim": 12,
+        "feedPerMilk": 0.228,
+        "milkProduced": 31.2,
+        "predictedPeak": 40.8
+    },
+    {
+        "cowName": "Kastehelmi",
+        "calving": 3,
+        "dim": 6,
+        "feedPerMilk": 0.004,
+        "milkProduced": 29.8,
+        "predictedPeak": 49.1
+    },
+    {
+        "cowName": "Kreeta",
+        "calving": 3,
+        "dim": 4,
+        "feedPerMilk": 0.006,
+        "milkProduced": 21.3,
+        "predictedPeak": 41.2
+    },
+    {
+        "cowName": "KaijaK",
+        "calving": 2,
+        "dim": 18,
+        "feedPerMilk": 0.116,
+        "milkProduced": 40.1,
+        "predictedPeak": 46.1
+    },
+    {
+        "cowName": "Lyydia",
+        "calving": 2,
+        "dim": 15,
+        "feedPerMilk": 0.1,
+        "milkProduced": 30.1,
+        "predictedPeak": 38
+    },
+    {
+        "cowName": "Lempi",
+        "calving": 3,
+        "dim": 5,
+        "feedPerMilk": 0.11,
+        "milkProduced": 27.1,
+        "predictedPeak": 44.8
+    },
+    {
+        "cowName": "Lilja",
+        "calving": 3,
+        "dim": 4,
+        "feedPerMilk": 0.213,
+        "milkProduced": 13.3,
+        "predictedPeak": 29.9
+    },
+    {
+        "cowName": "Joutuisa",
+        "calving": 4,
+        "dim": 12,
+        "feedPerMilk": 0.075,
+        "milkProduced": 37.2,
+        "predictedPeak": 52
+    },
+    {
+        "cowName": "Jupaska",
+        "calving": 4,
+        "dim": 6,
+        "feedPerMilk": 0.086,
+        "milkProduced": 18.7,
+        "predictedPeak": 36
+    },
+    {
+        "cowName": "Jennifer",
+        "calving": 4,
+        "dim": 6,
+        "feedPerMilk": 0.086,
+        "milkProduced": 35.8,
+        "predictedPeak": 46.3
+    },
+    {
+        "cowName": "Jooga",
+        "calving": 2,
+        "dim": 18,
+        "feedPerMilk": 0.138,
+        "milkProduced": 34.9,
+        "predictedPeak": 39
+    },
+    {
+        "cowName": "Jaffa",
+        "calving": 3,
+        "dim": 2,
+        "feedPerMilk": 0,
+        "milkProduced": 13.4,
+        "predictedPeak": 52
+    },
+    {
+        "cowName": "Jippu",
+        "calving": 3,
+        "dim": 29,
+        "feedPerMilk": 0.159,
+        "milkProduced": 42.5,
+        "predictedPeak": 42.8
+    },
+    {
+        "cowName": "Kristine",
+        "calving": 3,
+        "dim": 3,
+        "feedPerMilk": 0.101,
+        "milkProduced": 28.5,
+        "predictedPeak": 44.5
+    },
+    {
+        "cowName": "Kristalli",
+        "calving": 3,
+        "dim": 25,
+        "feedPerMilk": 0.136,
+        "milkProduced": 40,
+        "predictedPeak": 43.3
+    },
+    {
+        "cowName": "Klaava",
+        "calving": 3,
+        "dim": 4,
+        "feedPerMilk": 0.06,
+        "milkProduced": 19.3,
+        "predictedPeak": 35.5
+    },
+    {
+        "cowName": "Kumina",
+        "calving": 3,
+        "dim": 19,
+        "feedPerMilk": 0.136,
+        "milkProduced": 40.9,
+        "predictedPeak": 45.9
+    },
+    {
+        "cowName": "Lilli",
+        "calving": 1,
+        "dim": 10,
+        "feedPerMilk": 0.145,
+        "milkProduced": 21.8,
+        "predictedPeak": 30.7
+    },
+    {
+        "cowName": "Leikki",
+        "calving": 3,
+        "dim": 18,
+        "feedPerMilk": 0.125,
+        "milkProduced": 40.6,
+        "predictedPeak": 44.5
+    },
+    {
+        "cowName": "Liana",
+        "calving": 2,
+        "dim": 13,
+        "feedPerMilk": 0.087,
+        "milkProduced": 43.8,
+        "predictedPeak": 47
+    },
+    {
+        "cowName": "Lupiini",
+        "calving": 2,
+        "dim": 8,
+        "feedPerMilk": 0.086,
+        "milkProduced": 37.6,
+        "predictedPeak": 41
+    },
+    {
+        "cowName": "Liisuli",
+        "calving": 1,
+        "dim": 5,
+        "feedPerMilk": 0.239,
+        "milkProduced": 12.4,
+        "predictedPeak": 19.1
+    },
+    {
+        "cowName": "Lehdokki",
+        "calving": 2,
+        "dim": 17,
+        "feedPerMilk": 0.087,
+        "milkProduced": 43.5,
+        "predictedPeak": 44.9
+    },
+    {
+        "cowName": "Lely",
+        "calving": 2,
+        "dim": 5,
+        "feedPerMilk": 0.132,
+        "milkProduced": 24,
+        "predictedPeak": 38.6
+    },
+    {
+        "cowName": "Loisto",
+        "calving": 1,
+        "dim": 14,
+        "feedPerMilk": 0.143,
+        "milkProduced": 27.4,
+        "predictedPeak": 34
+    },
+    {
+        "cowName": "Maritza",
+        "calving": 1,
+        "dim": 20,
+        "feedPerMilk": 0.153,
+        "milkProduced": 34.5,
+        "predictedPeak": 47.3
+    },
+    {
+        "cowName": "Jojo",
+        "calving": 3,
+        "dim": 8,
+        "feedPerMilk": 0.115,
+        "milkProduced": 41.9,
+        "predictedPeak": 52.1
+    },
+    {
+        "cowName": "Kielo",
+        "calving": 3,
+        "dim": 14,
+        "feedPerMilk": 0.149,
+        "milkProduced": 42.7,
+        "predictedPeak": 62.9
+    },
+    {
+        "cowName": "Jestella",
+        "calving": 3,
+        "dim": 2,
+        "feedPerMilk": 0.242,
+        "milkProduced": 31.3,
+        "predictedPeak": 44.5
+    },
+    {
+        "cowName": "Jelly",
+        "calving": 3,
+        "dim": 22,
+        "feedPerMilk": 0.189,
+        "milkProduced": 28.1,
+        "predictedPeak": 43.7
+    },
+    {
+        "cowName": "Juliet",
+        "calving": 3,
+        "dim": 15,
+        "feedPerMilk": 0.164,
+        "milkProduced": 24.5,
+        "predictedPeak": 36.8
+    },
+    {
+        "cowName": "Jertta",
+        "calving": 3,
+        "dim": 7,
+        "feedPerMilk": 0.119,
+        "milkProduced": 41.4,
+        "predictedPeak": 49.6
+    },
+    {
+        "cowName": "M.Kiira",
+        "calving": 3,
+        "dim": 8,
+        "feedPerMilk": 0.094,
+        "milkProduced": 57.5,
+        "predictedPeak": 70.7
+    },
+    {
+        "cowName": "Kirsikka",
+        "calving": 2,
+        "dim": 9,
+        "feedPerMilk": 0.129,
+        "milkProduced": 36.1,
+        "predictedPeak": 48.1
+    },
+    {
+        "cowName": "Kaakao",
+        "calving": 3,
+        "dim": 20,
+        "feedPerMilk": 0.152,
+        "milkProduced": 29.3,
+        "predictedPeak": 39.1
+    },
+    {
+        "cowName": "Kimalle",
+        "calving": 2,
+        "dim": 15,
+        "feedPerMilk": 0.173,
+        "milkProduced": 26.2,
+        "predictedPeak": 50.9
+    },
+    {
+        "cowName": "Lilian",
+        "calving": 1,
+        "dim": 14,
+        "feedPerMilk": 0.144,
+        "milkProduced": 19,
+        "predictedPeak": 37.7
+    },
+    {
+        "cowName": "Lilian",
+        "calving": 2,
+        "dim": 2,
+        "feedPerMilk": 0.246,
+        "milkProduced": 14.9,
+        "predictedPeak": 43.8
+    },
+    {
+        "cowName": "Loviisa",
+        "calving": 1,
+        "dim": 6,
+        "feedPerMilk": 0.322,
+        "milkProduced": 12,
+        "predictedPeak": 29.7
+    },
+    {
+        "cowName": "Loviisa",
+        "calving": 2,
+        "dim": 10,
+        "feedPerMilk": 0.269,
+        "milkProduced": 25.9,
+        "predictedPeak": 31.9
+    },
+    {
+        "cowName": "Lovely",
+        "calving": 1,
+        "dim": 19,
+        "feedPerMilk": 0.175,
+        "milkProduced": 30.6,
+        "predictedPeak": 44
+    },
+    {
+        "cowName": "Leija",
+        "calving": 1,
+        "dim": 28,
+        "feedPerMilk": 0.2,
+        "milkProduced": 30,
+        "predictedPeak": 30
+    },
+    {
+        "cowName": "Meloni",
+        "calving": 1,
+        "dim": 12,
+        "feedPerMilk": 0.35,
+        "milkProduced": 14,
+        "predictedPeak": 24.3
+    },
+    {
+        "cowName": "Nuotti",
+        "calving": 1,
+        "dim": 14,
+        "feedPerMilk": 0.123,
+        "milkProduced": 29.6,
+        "predictedPeak": 33.9
+    },
+    {
+        "cowName": "Ilo",
+        "calving": 4,
+        "dim": 10,
+        "feedPerMilk": 0.192,
+        "milkProduced": 29.5,
+        "predictedPeak": 48.2
+    },
+    {
+        "cowName": "Jaana",
+        "calving": 4,
+        "dim": 21,
+        "feedPerMilk": 0.145,
+        "milkProduced": 49.4,
+        "predictedPeak": 52.6
+    },
+    {
+        "cowName": "Aarre",
+        "calving": 6,
+        "dim": 16,
+        "feedPerMilk": 0.287,
+        "milkProduced": 22.1,
+        "predictedPeak": 44.3
+    },
+    {
+        "cowName": "Ipana",
+        "calving": 4,
+        "dim": 17,
+        "feedPerMilk": 0.168,
+        "milkProduced": 43.2,
+        "predictedPeak": 50.6
+    },
+    {
+        "cowName": "Ipana",
+        "calving": 5,
+        "dim": 16,
+        "feedPerMilk": 0.253,
+        "milkProduced": 25.5,
+        "predictedPeak": 37.9
+    },
+    {
+        "cowName": "Ilokki",
+        "calving": 4,
+        "dim": 13,
+        "feedPerMilk": 0.178,
+        "milkProduced": 52.6,
+        "predictedPeak": 57.9
+    },
+    {
+        "cowName": "Jasmine",
+        "calving": 4,
+        "dim": 9,
+        "feedPerMilk": 0.133,
+        "milkProduced": 37,
+        "predictedPeak": 45
+    },
+    {
+        "cowName": "Jasso",
+        "calving": 3,
+        "dim": 26,
+        "feedPerMilk": 0.183,
+        "milkProduced": 50,
+        "predictedPeak": 51.6
+    },
+    {
+        "cowName": "Kiira",
+        "calving": 3,
+        "dim": 14,
+        "feedPerMilk": 0.119,
+        "milkProduced": 52.2,
+        "predictedPeak": 57.7
+    }
+];

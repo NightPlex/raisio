@@ -59,32 +59,13 @@ th a {
     font-size: 0.9em;
 }
 
-.very-green {
-    background-color: darkgreen;
-    color: black;
-}
 
 .green {
     background-color: green;
     color: black;
 }
 
-.mild-green {
-    background-color: greenyellow;
-    color: black;
-}
-
-.very-red {
-    background-color: darkred;
-    color: black;
-}
-
 .red {
     background-color: red;
-    color: black;
-}
-
-.mild-red {
-    background-color: #FFA5A5;
     color: black;
 }

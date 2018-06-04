@@ -54,18 +54,19 @@ cite {
 
 th a {
     color: #fff;
-    font-weight: normal;
-    font-style: italic;
-    font-size: 0.9em;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-transform: uppercase;
+
 }
 
 
 .green {
-    background-color: green;
+    background-color: #acefb6;
     color: black;
 }
 
 .red {
-    background-color: red;
+    background-color: #ff9999;
     color: black;
 }
